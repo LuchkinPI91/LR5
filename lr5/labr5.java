@@ -155,10 +155,7 @@ public class labr5{
 		return group[i];
 		
 	}
-	
-}
-
-class Students_book{
+	class Students_book{
 		
 	private int  id[] = new int [30];
 	
@@ -178,3 +175,6 @@ class Students_book{
 
 		
 	}
+	
+}
+
